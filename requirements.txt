@@ -1,0 +1,19 @@
+# Core LangChain
+langchain
+langchain_core
+langchain_community
+
+# Groq API
+groq
+
+# Helpers
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+pandas
+numpy
+pydantic
+pypdf
+beautifulsoup4
+requests
