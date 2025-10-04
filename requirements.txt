@@ -1,12 +1,7 @@
-# Core LangChain
 langchain
 langchain_core
 langchain_community
-
-# Groq API
 groq
-
-# Helpers
 python-dotenv
 streamlit
 tiktoken
@@ -17,3 +12,10 @@ pydantic
 pypdf
 beautifulsoup4
 requests
+ipykernel
+chromadb
+duckdb
+langchain-text-splitters
+arxiv
+bs4 
+langchain-groq 
