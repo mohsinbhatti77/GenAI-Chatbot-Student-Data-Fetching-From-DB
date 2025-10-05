@@ -19,3 +19,4 @@ langchain-text-splitters
 arxiv
 bs4 
 langchain-groq 
+mysql-connector-python
